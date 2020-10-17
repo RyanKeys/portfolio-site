@@ -1,24 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
+import Navbar from './components/boilerplate/Navbar';
+import Footer from './components/boilerplate/Footer'
+import Jumbotron from './components/header/Jumbotron';
+import UL from './components/content/UL'
 import './App.css';
+import Showcase from './components/content/Showcase';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar/>
+      <Jumbotron/>
+      <br/>
+      <div className="body-container">
+      <Showcase/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <UL/>
+      </div>
+      <Footer/>
     </div>
   );
 }
