@@ -71,12 +71,8 @@
 }
 
 .jumbotron {
+  background-color: inherit;
   z-index: 10;
-  background-image: linear-gradient(
-    to top left,
-    RGBA(25, 25, 25, 0.8),
-    RGBA(2, 16, 25, 0.8)
-  );
   padding: 0em;
   padding-top: 20em;
   text-align: left;
