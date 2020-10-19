@@ -1,68 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Senior Fall Intensive Proposal
 
-## Available Scripts
+## TODO: copy this file, fill it out, and push it up to your project's repo.
 
-In the project directory, you can run:
+Dates 3/16-3/25
 
-### `npm start`
+**My Name:**<br>
+Ryan Keys<br>
+**Project Name:**<br>
+Portfolio Site<br>
+**Is your project New or Old?**<br>
+New<br>
+**Is your project Solo or Team?**<br>
+Solo<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Description
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**<br>
+I intend on taking this time to design a portfolio site using React. I'm hoping to get a UI/UX that's modern.
 
-### `npm test`
+## Challenges I Anticipate
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**List out the challenges you anticipate for completing this project**<br>
+Self taught in Basic React
+Actual information on the site instead of filler text.
 
-### `npm run build`
+## Skateboard
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+**Start coding and finish “Skateboard” feature before beginning “Bike”.**<br>
+Modern One-Page UI/UX for use on a future project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Bike
 
-### `npm run eject`
+**ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use**<br>
+Populate page with static information in a portfolio style.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Car
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**ONE additional feature**<br>
+Deploy from an express application instead of statically to dynamically render data / routing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Personal Achievement Goals:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
 
-## Learn More
+### Teammate 1
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Skateboard
+2. Bike
+3. Car
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Wireframes
 
-### Code Splitting
+**Insert wireframe pictures here**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Evaluation
 
-### Analyzing the Bundle Size
+**You must meet the following criteria in order to pass the intensive:**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Students must get proposal approved before starting the project to pass
+- SOLO
+  - must score an average above a 2.5 on the [rubric]
+- TEAM
+  - Must score an average above 3 on the [rubric]
+  - Each individual completes 2 of the 3 personal achievement goals from their proposal
+- Pitch your product
 
-### Making a Progressive Web App
+[rubric]: https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Approval Checklist
 
-### Advanced Configuration
+- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
+- [x] I have completed all the necessary parts of this proposal
+- [x] I linked my proposal in the Intensive Tracker
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Sign off
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+> Ryan Keys/10/19/20
+> **Make School Advisor Name**
+> Braus
