@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de7b7e59.chunk.css",
+    "main.js": "/static/js/main.bfcbda42.chunk.js",
+    "main.js.map": "/static/js/main.bfcbda42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdaf22cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdaf22cd.js.map",
+    "static/js/2.b0b7e3cd.chunk.js": "/static/js/2.b0b7e3cd.chunk.js",
+    "static/js/2.b0b7e3cd.chunk.js.map": "/static/js/2.b0b7e3cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e27229ad81d6edc4abc5c28f1e5b8ad.js": "/precache-manifest.5e27229ad81d6edc4abc5c28f1e5b8ad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.de7b7e59.chunk.css.map": "/static/css/main.de7b7e59.chunk.css.map",
+    "static/js/2.b0b7e3cd.chunk.js.LICENSE.txt": "/static/js/2.b0b7e3cd.chunk.js.LICENSE.txt",
+    "static/media/test-jumbo.jpg": "/static/media/test-jumbo.9a3ad27a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdaf22cd.js",
+    "static/js/2.b0b7e3cd.chunk.js",
+    "static/css/main.de7b7e59.chunk.css",
+    "static/js/main.bfcbda42.chunk.js"
+  ]
+}
