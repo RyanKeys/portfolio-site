@@ -10,7 +10,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
-    "homepage": "https://firemap.global/portfolio-site"
+    "homepage": "https://ryankeys.github.io/portfolio-site"
   },
   "scripts": {
     "predeploy": "npm run build",
