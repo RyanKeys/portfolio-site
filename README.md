@@ -34,12 +34,12 @@ Modern One-Page UI/UX for use on a future project.
 ## Bike
 
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use**<br>
-Populate page with static information in a portfolio style.
+Start developing back end in express and deploy on heroku.
 
 ## Car
 
 **ONE additional feature**<br>
-Deploy from an express application instead of statically to dynamically render data / routing
+Attach to another personal project and populate the information with pertinent data.
 
 ## Personal Achievement Goals:
 
@@ -71,7 +71,6 @@ Deploy from an express application instead of statically to dynamically render d
 
 ## Approval Checklist
 
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
 - [x] I have completed all the necessary parts of this proposal
 - [x] I linked my proposal in the Intensive Tracker
 
