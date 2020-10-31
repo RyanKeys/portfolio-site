@@ -17,10 +17,9 @@
   transition: top 0.3s;
 }
 .navi {
-  position: fixed;
+  position: relative;
   top: 0;
   z-index: 1;
-  width: 100vw;
 }
 
 .navbar-dark {
@@ -46,13 +45,9 @@
   height: 100vh;
 }
 
-.jumbotron-content {
-  width: 50vw;
-  position: relative;
-}
-
 .carousel {
-  position: absolute;
+  top: 0;
+  position: fixed;
   width: 100%;
   max-width: 100%;
 }
@@ -71,14 +66,13 @@
 }
 
 .jumbotron {
+  position: relative;
   background-color: inherit;
   z-index: 10;
-  padding: 0em;
-  padding-top: 20em;
+  padding-top: 15em;
   text-align: left;
   color: whitesmoke;
   text-shadow: 2px 1px black;
-  margin-bottom: 0;
   margin-left: 2em;
   margin-right: 2em;
 }

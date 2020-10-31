@@ -3,16 +3,7 @@ import React, { Component } from "react";
 export default class Header extends Component {
   render() {
     /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
-    var prevScrollpos = window.pageYOffset;
-    window.onscroll = function () {
-      var currentScrollPos = window.pageYOffset;
-      if (prevScrollpos > currentScrollPos) {
-        document.getElementById("navbar").style.top = "0";
-      } else {
-        document.getElementById("navbar").style.top = "-80px";
-      }
-      prevScrollpos = currentScrollPos;
-    };
+
     //   TODO Have navbar links slide you down to positions on the page.
     return (
       <div className="navi">
@@ -21,7 +12,7 @@ export default class Header extends Component {
           className="navbar navbar-expand-lg navbar-dark bg-dark"
         >
           <a className="navbar-brand" href="#">
-            Navbar
+            Home
           </a>
           <button
             className="navbar-toggler"
@@ -37,11 +28,6 @@ export default class Header extends Component {
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto">
-              <li className="nav-item active">
-                <a className="nav-link" href="#">
-                  Home <span className="sr-only">(current)</span>
-                </a>
-              </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
                   Link
